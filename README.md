@@ -1,6 +1,5 @@
-<img src="https://raw.githubusercontent.com/markon87/markon87/main/gh-header.jpg" alt="Header Image" />
-<h1>About Me</h1>
-<p>Hey there! 👋 <br />
+<h1>Hi! I am Marko Novaković 👨‍💻</h1>
+<img src="https://raw.githubusercontent.com/markon87/markon87/main/gh-header-full.jpg" alt="Header Image" />
 I'm a creative Front-End Developer based in Bethesda, MD, passionate about crafting beautiful and responsive web solutions with engaging user-friendly experiences.</p>
 
 <h2>What I Do</h2>
