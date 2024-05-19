@@ -20,7 +20,7 @@ I'm a creative Front-End Developer based in Bethesda, MD, passionate about craft
 </ul>
 
 <h2>Beyond Work</h2>
-<p>In my spare time, you'll often find me tending to my reef tank or scaling walls at my local climbing gym.</p>
+<p>In my spare time, you'll often find me tending to my reef tank or climbing walls at my local climbing gym.</p>
 
 <h2>Explore Further</h2>
 <p>Feel free to browse through my <a href="https://markon87.github.io/">portfolio website</a> to learn more about my skills and experience. If you have any questions or want to discuss a potential project, don't hesitate to get in touch. I'm always excited about new opportunities! Thanks for stopping by! 🌟</p>
