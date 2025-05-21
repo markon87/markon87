@@ -15,7 +15,7 @@ I'm a creative Frontend Engineer based in Bethesda, MD, passionate about craftin
 <h2>My Approach</h2>
 <p>I believe that great frontend development is about more than writing code — it’s about creating thoughtful, scalable, and accessible user experiences that solve real problems.</p>
   <ul>
-    <li><strong>User-first mindset</strong> – I design interfaces that are intuitive, performant, and easy to navigate, especially when dealing with complex or large datasets.</li>
+    <li><strong>User-first mindset</strong> – I design interfaces that are intuitive and easy to navigate, especially when dealing with complex or large datasets.</li>
     <li><strong>Clean, maintainable code</strong> – I prioritize readability, reusability, and modular architecture to support long-term growth and collaboration.</li>
     <li><strong>End-to-end ownership</strong> – From design handoff to deployment, I take responsibility for the full lifecycle of features, ensuring quality and alignment with business goals.</li>
     <li><strong>Strong communication</strong> – I thrive in collaborative environments, working closely with designers, backend engineers, and stakeholders to bring ideas to life.</li>
@@ -24,7 +24,7 @@ I'm a creative Frontend Engineer based in Bethesda, MD, passionate about craftin
 
 <h2>My Expertise</h2>
 
-<p>My main areas of interest include:</p>
+<p>My main areas of expertise include:</p>
 <ul>
 <li><strong>Modern frontend development</strong> with ReactJS</li>
 <li><strong>Data visualization</strong> and building intuitive UI for large-scale datasets</li>
@@ -35,9 +35,6 @@ I'm a creative Frontend Engineer based in Bethesda, MD, passionate about craftin
 <li><strong>Frontend tooling & DevOps</strong> with Docker, AWS, and Azure DevOps</li>
 <li><strong>Collaborative product development</strong> in fast-paced, cross-functional teams</li>
 </ul>
-
-<h2>Beyond Work</h2>
-<p>In my spare time, you'll often find me tending to my reef tank or climbing walls at my local climbing gym.</p>
 
 <h2>Explore Further</h2>
 <p>Feel free to browse through my <a href="https://markon87.github.io/">portfolio website</a> to learn more about my skills and experience. If you have any questions or want to discuss a potential project, don't hesitate to get in touch. I'm always excited about new opportunities! Thanks for stopping by! 🌟</p>
