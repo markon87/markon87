@@ -1,6 +1,6 @@
 <h1>Hi! I am Marko Novaković 👨‍💻</h1>
 <img src="https://raw.githubusercontent.com/markon87/markon87/main/gh-header-full-banner.jpg" alt="Header Image" />
-I'm a creative Frontend Developer based in Bethesda, MD, passionate about crafting beautiful and responsive web solutions with engaging user-friendly experiences.</p>
+I'm a creative Front-End Developer based in Bethesda, MD, passionate about crafting beautiful and responsive web solutions with engaging user-friendly experiences.</p>
 
 <h2>What I Do</h2>
 <p>With years of experience in the industry, I specialize in design, implementation, and management of digital products for national and international clients. I thrive in collaborative environments, where I contribute ideas to create outstanding digital solutions.</p>
